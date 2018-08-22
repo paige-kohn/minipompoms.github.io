@@ -52,10 +52,10 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #b30000;
+    border-top: 2px solid #b30000;
     font-size: .8em;
     color: #d5d5d5;
-    font-weight: bold;
+
 }
 
 ul.posts {
