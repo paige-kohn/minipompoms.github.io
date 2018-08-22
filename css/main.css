@@ -2,8 +2,8 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: 'Didact Gothic', 'Arial', 'Sans-Serif';
     background-color: #D3D3D3;
+    font-family: 'Didact Gothic', 'Arial', 'Sans-Serif';
 
 }
 nav ul, footer ul {
@@ -36,7 +36,7 @@ h5{
   font-size: 1.3em;
   font-family: 'Didact Gothic', 'Arial', 'Sans-Serif';
   color:  #b30000;
-
+  font-weight: bold;
 }
 img {
     border-radius: 50%;
@@ -57,6 +57,7 @@ footer {
     font-size: .8em;
     color: #d5d5d5;
     text-align: right;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 
 }
 
