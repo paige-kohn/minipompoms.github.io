@@ -27,13 +27,18 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h3{
+  color: #800000;
+  font-size: 2em;
+}
+
 img {
     border-radius: 50%;
     box-shadow: 8px 8px 10px #aaa;
     background-color: #fff;
     padding: 4px;
     width: 25%;
-    height: 25%;
+    height: 23%;
 }
 h5{
 
