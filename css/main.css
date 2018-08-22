@@ -4,7 +4,6 @@ body {
     width: 70%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #D3D3D3;
-    font-size: .5em;
 
 }
 nav ul, footer ul {
@@ -48,7 +47,7 @@ img {
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
