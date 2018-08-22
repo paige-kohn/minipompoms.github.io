@@ -2,12 +2,12 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Didact Gothic', 'Arial', 'Sans-Serif';
     background-color: #D3D3D3;
 
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: 'Didact Gothic', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -25,16 +25,16 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Didact Gothic', 'Arial', 'Sans-Serif';
 }
 h3{
-  font-family: 'Didact Gothic';font-size: 22px;
+  font-family: 'Didact Gothic', 'Arial', 'Sans-Serif';
   color: #999;
   font-size: 1.1em;
 }
 h5{
   font-size: 1.3em;
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: 'Didact Gothic', 'Arial', 'Sans-Serif';
   color:  #b30000;
 
 }
