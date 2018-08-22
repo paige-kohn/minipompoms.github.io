@@ -29,9 +29,13 @@ h1 {
 }
 h3{
   color:  #b30000;
-  font-size: 1.5em;
+  font-size: 1.1em;
 }
-
+h5{
+  font-size: 1.3em;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  color: #999;
+}
 img {
     border-radius: 50%;
     box-shadow: 8px 8px 10px #aaa;
@@ -40,11 +44,7 @@ img {
     width: 25%;
     height: 22%;
 }
-h5{
 
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  color: #999;
-}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
