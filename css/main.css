@@ -28,21 +28,22 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h3{
-  color:  #b30000;
+  color: #999;
   font-size: 1.1em;
 }
 h5{
   font-size: 1.3em;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  color: #999;
+  color:  #b30000;
+
 }
 img {
     border-radius: 50%;
     box-shadow: 8px 8px 10px #aaa;
     background-color: #fff;
     padding: 4px;
-    width: 25%;
-    height: 22%;
+    width: 23%;
+    height: 20%;
 }
 
 p {
